@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd 
 import math
 
-st.title("Calculator")
+st.title("Mortage Repayment Calculator")
 
 st.write("### Input Data")
 col1,col2=st.columns(2)
